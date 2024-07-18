@@ -8,19 +8,19 @@
 
 ## 菜单
 
-![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs%2F0fa56d8b-f7fc-4a9b-9b7c-db73d86e5d94)
+![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs/0fa56d8b-f7fc-4a9b-9b7c-db73d86e5d94)
 
 ## 标签
 
-![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs%2F58d926b6-f9bd-419d-ac8b-f9228d653c50)
+![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs/58d926b6-f9bd-419d-ac8b-f9228d653c50)
 
 ## 输入框
 
-![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs%2F3c9c47c8-df17-4bc9-9406-dd06b5ad845e)
+![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs/3c9c47c8-df17-4bc9-9406-dd06b5ad845e)
 
 ## 输入box
 
-![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs%2F0b1ea57a-fa0f-4aa7-835b-b9aefc1ec6f4)
+![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs/0b1ea57a-fa0f-4aa7-835b-b9aefc1ec6f4)
 
 **你能想象这是完全通过控制台实现的吗？**
 
@@ -34,7 +34,7 @@
 
 后面学到了 C++, 利用面向对象的思想, 将一些常用的类进行封装, 大致结构如下:
 
-![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs%2Fdf14d71d-7a92-41eb-8aca-15f2301d7d38)
+![粘贴图片.png](https://dhm-blog.obs.cn-east-3.myhuaweicloud.com:443/imgs/df14d71d-7a92-41eb-8aca-15f2301d7d38)
 
 # 资源
 
