@@ -69,7 +69,7 @@
 # 资源
 
 - 完整视频: [完整视频](/file)
-- 可执行文件: [testList.exe](/file/testList.exe) 
+- 可执行文件: [testList.exe](/file/testList.exe) (windows)
 
 # EXT
 
@@ -78,5 +78,5 @@
 最后, 附上我大一做的一个比较有意思的动画做为收尾
 
 - 源代码: [cartoon.c](/file/cartoon.c)
-- 可执行文件: [cartoon.exe](http://mywhp/file/MyGra/cartoon.exe) (windows)
+- 可执行文件: [cartoon.exe](http://mywhp.cn/file/MyGra/cartoon.exe) (windows)
 - 视频: [cartoon.mp4](/file/cartoon.mp4)
